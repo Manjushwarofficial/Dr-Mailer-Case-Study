@@ -61,9 +61,8 @@ This repository serves as a **public-facing portfolio version** of the original 
 ## Project Structure
 Of course. Copy and paste the text below directly into your `README.md` file on GitHub.
 
------
 
-## 📂 Project Structure
+## Project Structure
 
 Here is an overview of the repository's file structure.
 
