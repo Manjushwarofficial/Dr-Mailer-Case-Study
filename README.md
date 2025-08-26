@@ -7,8 +7,8 @@ A secure, intelligent desktop email client designed to automate professional ema
 
 ## Overview
 
-Dr. Mailer streamlines email handling by using **machine learning** to automatically classify and label incoming emails, creating a more organized and efficient workflow.  
-This case study summarizes the approach, key design decisions, and the technology stack used to build a **local desktop application** with **minimal external dependencies**.
+Dr. Mailer streamlines email handling by using machine learning to automatically classify and label incoming emails, creating a more organized and efficient workflow.  
+This case study summarizes the approach, key design decisions, and the technology stack used to build a local desktop application with minimal external dependencies.
 
 
 
@@ -54,8 +54,8 @@ This case study summarizes the approach, key design decisions, and the technolog
 
 ## Case Study Purpose
 
-This repository serves as a **public-facing portfolio version** of the original private project.  
-- **No sensitive code or credentials are included.**  
+This repository serves as a public-facing portfolio version of the original private project.  
+- **No sensitive code or credentials are included.**
 - **Contains workflow diagrams, feature explanations, and demo snippets.**  
 - **Intended to showcase technical capability and process, not a production build.**
 
