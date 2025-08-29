@@ -1,9 +1,17 @@
 (The documentation and this repo will be updated soon after delivering the project)
 # Dr. Mailer – Case Study
+(a case study for client's project without hindering the sensetive and confedential data)
 
 A secure, intelligent desktop email client designed to automate professional email management. This case study highlights the project’s goals, core features, workflow, and technical insights — while omitting sensitive client information.
 
+## Demo Screenshot
 
+<img width="897" height="649" alt="image" src="https://github.com/user-attachments/assets/87c8d02d-3f85-40f9-8eb2-656151f279d8" />
+
+
+## Demo Video
+
+[Video Link](https://drive.google.com/file/d/1dE3uwV04YXBzK48_yi9r3HAWSFbalAEA/view?usp=sharing)
 
 ## Overview
 
